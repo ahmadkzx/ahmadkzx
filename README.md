@@ -1,9 +1,8 @@
 <div align="center">
   
-**Hello World. 19 Years Old Programming Lover**  
-special thanks to 🟡 Javascript, 🟢 Vue, 🔵 React, 🟠 Node   
+**Front-End Developer at Basalam**   
   
-See my posts in: [ahmadkzx.github.io](https://ahmadkzx.github.io)  
+See my posts in: [ahmadkzx.github.io](https://ahmadkzx.github.io)  [medium.com/@ahmadkzx](https://medium.com/@ahmadkzx)
 Contact: ahmadkarimzadedev@gmail.com
  
 </div>
